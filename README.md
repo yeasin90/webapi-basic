@@ -1,7 +1,7 @@
 # webapi-basic
 Basics of ASP.NET Web Api with WebApi 1 and WebApi 2 .
 
-Topics covered are : 
+Topics covered : 
 * Basic Routing in WebApi.Config (webapi 1)
 * Dependency Injection with Ninject in webapi (check NinjectWebCommon.cs)
 * object vs model vs entity as Response from WebApi controller's action (check FoodsController.cs Get action)
