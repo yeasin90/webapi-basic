@@ -5,7 +5,7 @@ Topics covered :
 * Basic Routing in WebApi.Config (webapi 1)
 * Dependency Injection with Ninject in webapi (check NinjectWebCommon.cs)
 * object vs model vs entity as Response from WebApi controller's action (check FoodsController.cs Get action)
-* Formatters (Json, XML, Jsonp). Check WebApi.Config
+* Serialization Formatters (Json, XML, Jsonp). Check WebApi.Config
 * Object specific model Converter. Check LinkModelConverter.cs and WebApi.Config
 * Versioning with Custom Controller Selector. Check WebApi.Config and CustomWebApiControllerSelector.cs (webapi 1)
 * Custom Auhthorization Attribute. Check TestBasicAuthorizeAttribute.cs, DiariesController.cs, FoodsController.cs
