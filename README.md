@@ -12,5 +12,5 @@ Topics covered :
 * Basic Authentication and Token Authentication. Check TestBasicAuthorizeAttribute.cs
 * Username and Password submit in WebApi. Check TokenController.cs, 
 * Attribute Routing. Check StatsController.cs (webapi 2)
-* CORS. Check WebApi.Config (webapi 2)
+* CORS -> Global, Controller based, Controller action based. Check WebApi.Config (webapi 2)
 * HttpResponseMessage vs IHttpActionResult. Check VersionedActionResult.cs and Get of FoodsController.cs
